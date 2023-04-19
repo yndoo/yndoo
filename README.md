@@ -1,6 +1,6 @@
 ### Bae Yeon Doo / Daisy 😊
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyndoo&count_bg=%239DCC79&title_bg=%238DC066&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyndoo&count_bg=%23D677AC&title_bg=%237F7F7F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![yndoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yndoo&show_icons=true&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ihaveacasio)](https://solved.ac/ihaveacasio/)
