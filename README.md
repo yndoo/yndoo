@@ -22,9 +22,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=flat&logo=Flask&logoColor=white)
 
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=cplusplus&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%20Sharp-239120.svg?&style=flat&logo=C%20Sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?&style=flat&logo=Unity&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white)  
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yndoo&layout=compact)](https://github.com/yndoo/github-readme-stats)-->  
