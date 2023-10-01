@@ -9,7 +9,7 @@
 ```
 📮 Gmail : yndoo2k@gmail.com
 🏫 Department of Software in Soongsil Univ.
-🌱 Interested in : Android(with Kotlin) & Python
+🌱 Interested in : Android(with Kotlin) & Unity
 📰 Blog : https://velog.io/@kuronuma_daisy
 ```
 
