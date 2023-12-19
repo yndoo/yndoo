@@ -6,7 +6,7 @@
 ```
 📮 Gmail : yndoo2k@gmail.com
 🏫 Department of Software in Soongsil Univ.
-🌱 Interested in : Unreal with CPP
+🌱 Interested in : Game Programming
 📰 Blog : https://velog.io/@kuronuma_daisy
 ```
 
