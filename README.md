@@ -14,15 +14,8 @@
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyndoo&count_bg=%23D677AC&title_bg=%237F7F7F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  -->
 
   ## Skills  
-![Kotlin](https://img.shields.io/badge/Kotlin-white.svg?&style=flat&logo=Kotlin&logoColor=7F52FF)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-white.svg?&style=flat&logo=Android%20Studio&logoColor=3DDC84)
-![Python](https://img.shields.io/badge/Python-white.svg?&style=flat&logo=Python&logoColor=3776AB)
-![Flask](https://img.shields.io/badge/Flask-white.svg?&style=flat&logo=Flask&logoColor=000000)
-
 ![C++](https://img.shields.io/badge/C++-white.svg?&style=flat&logo=cplusplus&logoColor=00599C)
-![C Sharp](https://img.shields.io/badge/C%20Sharp-FFFFFF.svg?&style=flat&logo=C%20Sharp&logoColor=239120)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?&style=flat&logo=Unity&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-FFFFFF.svg?&style=flat&logo=HTML5&logoColor=E34F26)  
+![Unreal](https://img.shields.io/badge/UnrealEngine-white.svg?style=flat&logo=unrealengine&logoColor=%23313131)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yndoo&layout=compact)](https://github.com/yndoo/github-readme-stats)-->  
  <br>  
