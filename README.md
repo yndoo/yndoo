@@ -7,7 +7,7 @@
 📮 Gmail : yndoo2k@gmail.com
 🏫 Department of Software in Soongsil Univ.
 🌱 Interested in : Game Programming
-📰 Blog : https://velog.io/@kuronuma_daisy
+📰 Blog : https://ramenkirby.tistory.com 
 ```
 
   
@@ -15,19 +15,27 @@
 
   ## Skills  
 C++  
+C#  
 Unreal  
+Unity  
 DirectX 11 2D   
 WinApi  
+Git  
+SVN
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yndoo&layout=compact)](https://github.com/yndoo/github-readme-stats)-->  
  <br>  
 
-## Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=social&logo=Gmail&logoColor=EA4335&link=mailto:yndoo2k@gmail.com)](mailto:yndoo2k@gmail.com)
+## Social
 <a href="https://velog.io/@kuronuma_daisy">
   <img src="https://img.shields.io/badge/Velog-20C997?style=social&logo=velog&logoColor=20C997"/>
+</a>
+<a href="https://ramenkirby.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=social&logo=tistory&logoColor=000000"/>
 </a>  
- <br>  
+<br> 
+ 
+
  
 ## Profile  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ihaveacasio)](https://solved.ac/ihaveacasio/)  
